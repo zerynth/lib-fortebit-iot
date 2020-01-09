@@ -1,0 +1,14 @@
+---
+description: fortebit IoT Cloud module
+fullname: lib.fortebit.iot
+info:
+    chip_manufacturer: fortebit
+    chip_name: fortebit
+    name: Zerynth Fortebit IoT Library
+    type: IoT Cloud
+keywords:
+- fortebit
+- iot
+- polaris
+title: Fortebit IoT Library
+...
